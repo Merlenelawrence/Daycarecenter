@@ -1,0 +1,58 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.header {
+    background-color: #FFA500;
+  }
+  
+  .navbar {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .navbar-brand {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 20px;
+  }
+  
+  .nav-link:hover {
+    color: #F8F8FF;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+  .nav-link.active{
+    color:#FFA500!important;
+  }
+  .banner-bg{
+    background-color: #F8F0E6;
+  }
+  .img-fluid{
+    width:100%;
+  }
+  .lead{
+    font-size: 14px;
+  }
+  .mission-bg{
+    background-color:#FAE4CD;
+  }
+  .testi-bg-yellow
+  {
+    background-color:#F3E8CC;
+  }
+  .btn-primary{
+    background-color:#FFA500!important ;
+    border:1px solid #FFA500!important;
+    color:#000!important;
+  }
+  .bg-grey{
+    background-color: #eee;
+  }
